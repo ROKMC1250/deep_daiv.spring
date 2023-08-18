@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.pth
+*.pt
+*.mp4 
+flagged/*
